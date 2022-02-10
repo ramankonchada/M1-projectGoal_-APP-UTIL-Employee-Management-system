@@ -29,4 +29,9 @@ The main constraints for the high level requirements are:
 # How
 - It is implemented in c language and by creating a system which will provide required details of an employee in a system of the company or the organization.
 
-#SWOT ANALYSIS
+# SWOT ANALYSIS
+![Drawing](https://user-images.githubusercontent.com/86915349/153463539-dbef5e08-ab6e-467c-a610-562e5731eeca.jpg)
+
+
+
+
